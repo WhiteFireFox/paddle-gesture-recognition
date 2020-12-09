@@ -28,4 +28,4 @@
 
 <font size=6>**项目体验**</font>
 <br><br>
-&emsp;&emsp;&emsp;<font size=5>更完整更好的项目体验请访问AI Studio上作者的项目：</font>[项目](https://aistudio.baidu.com/aistudio/projectdetail/645654)
+&emsp;&emsp;&emsp;<font size=5>更完整更好的项目体验请访问AI Studio上作者的项目：</font>[项目](https://aistudio.baidu.com/aistudio/projectdetail/681367)
