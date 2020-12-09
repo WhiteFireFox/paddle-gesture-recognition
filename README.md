@@ -1,0 +1,2 @@
+# paddle-gesture-recognition-
+本项目基于paddle实现的TSN模型开发的手语识别，希望能搭建起不太精通手语的人群与失聪人群交流的桥梁
