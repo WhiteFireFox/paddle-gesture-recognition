@@ -26,6 +26,6 @@
 &emsp;&emsp;<img src="https://ai-studio-static-online.cdn.bcebos.com/3d73bc0b028a4bda90c6cc489b4d8d0eb1ea2271531c476682d2ac7d6e24314c" width='2000px'>
 <br>
 
-<font size=6>**项目体验**</font>
+<font size=6>**源代码：**</font>
 <br><br>
 &emsp;&emsp;&emsp;<font size=5>更完整更好的项目体验请访问AI Studio上作者的项目：</font>[项目](https://aistudio.baidu.com/aistudio/projectdetail/681367)
